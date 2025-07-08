@@ -4,6 +4,7 @@ jobs:
     runs-on: ubuntu-latest
     container: node:16
     steps:
+      - run: echo "TESTING"
       - run: node --version
       - run: npm --version
       - uses: actions/checkout@v3
