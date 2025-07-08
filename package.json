@@ -1,0 +1,22 @@
+{
+  "name": "8_jul_clase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HannahChenoa/8_JUL_CLASE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HannahChenoa/8_JUL_CLASE/issues"
+  },
+  "homepage": "https://github.com/HannahChenoa/8_JUL_CLASE#readme",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
